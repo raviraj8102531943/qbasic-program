@@ -4,3 +4,4 @@ for i = 1 to len(st$)
 print left$(st$,1)
 next
 end
+                                                NICE CODE

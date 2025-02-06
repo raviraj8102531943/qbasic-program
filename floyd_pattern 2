@@ -1,0 +1,6 @@
+cls
+input " enter the string ",st$
+for i = 1 to len(st$)
+print left$(st$,1)
+next
+end

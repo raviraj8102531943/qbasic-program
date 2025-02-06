@@ -1,9 +1,11 @@
 Cls
 Print "                      -------WELCOME TO OUR BANK--------"
-Print " 1. CREATE ACCOUNT "
-Print " 2. CHECK YOUR BALANCE "
-Print " 3. CREATE PIN NUMBER"
-Input " PRESS NUMBER(1-3)", num
+print "*****************************************************************************************"
+Print "*                          1. CREATE ACCOUNT                                            * "
+Print "*                          2. CHECK YOUR BALANCE                                        * "
+Print "*                          3. CREATE PIN NUMBER                                         *"
+print "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+Input "PRESS NUMBER(1-3)", num
 Select Case num
     Case 1.
         Input " enter your name", name$
